@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "https://dhruvabhattacharya.github.io/dhruva.github.io",
+  "homepage": "http://dhruvabhattacharya130102.xyz",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
